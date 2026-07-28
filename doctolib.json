@@ -1,0 +1,72 @@
+[
+  {
+    "nom_specialite": "Dr Annelies Taverniers - Dermatologue et vénérologue",
+    "adresse": "5bis Boulevard des Arceaux, 34000 Montpellier",
+    "type_consultation": "Cabinet et Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/annelies-taverniers?pid=practice-753056&phs=true&page=1&from=hub_speciality"
+  },
+  {
+    "nom_specialite": "Dr Stephane Bosonnet - Dermatologue et vénérologue",
+    "adresse": "1 Rue de l'Aiguillerie, 34000 Montpellier",
+    "type_consultation": "Cabinet et Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/stephane-bosonnet?pid=practice-64958&phs=true&page=1&from=hub_speciality&index=1"
+  },
+  {
+    "nom_specialite": "Dr Floriane KOUBY - Dermatologue et vénérologue",
+    "adresse": "31 Boulevard du Jeu de Paume, 34000 Montpellier",
+    "type_consultation": "Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/floriane-kouby-montpellier?pid=practice-494015&phs=true&page=1&from=hub_speciality&index=3"
+  },
+  {
+    "nom_specialite": "Dr Julie Lacotte - Dermatologue et vénérologue",
+    "adresse": "266 Place Ernest Granier, 34000 Montpellier",
+    "type_consultation": "Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/julie-lacotte?pid=practice-159748&phs=true&page=1&from=hub_speciality&index=4"
+  },
+  {
+    "nom_specialite": "Dr Catherine DEGRAVI - Dermatologue et vénérologue",
+    "adresse": "24 Rue du Faubourg Saint-Jaumes, 34090 Montpellier",
+    "type_consultation": "Cabinet et Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/catherine-degravi-montpellier?pid=practice-665531&phs=true&page=1&from=hub_speciality&index=5"
+  },
+  {
+    "nom_specialite": "Dr Catherine Serrero - Dermatologue et vénérologue",
+    "adresse": "127 Rue Maurice Béjart, 34080 Montpellier",
+    "type_consultation": "Cabinet et Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/catherine-serrero?pid=practice-58832&phs=true&page=1&from=hub_speciality&index=7"
+  },
+  {
+    "nom_specialite": "Dr Nathalie RAVI FLANDIN - Dermatologue et vénérologue",
+    "adresse": "2 Place des Charmilles, 34080 Montpellier",
+    "type_consultation": "Cabinet et Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/nathalie-ravi-flandin?pid=practice-146717&phs=true&page=1&from=hub_speciality&index=8"
+  },
+  {
+    "nom_specialite": "Dr Marco Grassi - Dermatologue et vénérologue",
+    "adresse": "266 Place Ernest Granier, 34000 Montpellier",
+    "type_consultation": "Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/marco-grassi-montpellier?pid=practice-159748&phs=true&page=1&from=hub_speciality&index=9"
+  },
+  {
+    "nom_specialite": "Dr Sylvie MONPOINT - Dermatologue et vénérologue",
+    "adresse": "128 Rue du Caducée, 34090 Montpellier",
+    "type_consultation": "Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/sylvie-monpoint?pid=practice-41033&phs=true&page=1&from=hub_speciality&index=11"
+  },
+  {
+    "nom_specialite": "Dr Marie FONDAIN - Dermatologue et vénérologue",
+    "adresse": "110 Rue de la Taillade, 34070 Montpellier",
+    "type_consultation": "Vidéo",
+    "prochains_creneaux": [],
+    "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/marie-fondain-montpellier?pid=practice-136014&phs=true&page=1&from=hub_speciality&index=12"
+  }
+]

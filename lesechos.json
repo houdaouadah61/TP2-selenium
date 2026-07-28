@@ -1,0 +1,107 @@
+[
+  {
+    "titre": "EXCLUSIF - Accidents du travail : comment le gouvernement veut économiser 800 millions d'euros",
+    "rubrique": "Économie",
+    "chapeau": "Patronat et syndicats ont fini par répondre aux quatre pistes formulées par le ministère du Travail pour redresser la branche AT-MP de la Sécu. Les indemnités journalières pourraient être fiscalisées.",
+    "heure_publi": "11:30",
+    "premium": true
+  },
+  {
+    "titre": "Arrêts de travail : le gouvernement limite la durée pour la première fois devant l'épidémie des absences dans les entreprises",
+    "rubrique": "Économie",
+    "chapeau": "La France s'apprête à plafonner pour la première fois la durée des arrêts maladie, à compter du 1er septembre. Une mesure inscrite dans la loi de financement de la Sécurité sociale 2026, qui signe une rupture historique.",
+    "heure_publi": "12:06",
+    "premium": false
+  },
+  {
+    "titre": "Médicaments, dentistes, taxis : le gouvernement veut baisser tous azimuts les taux de remboursement de la Sécurité sociale",
+    "rubrique": "Économie",
+    "chapeau": "Confronté aux finances de la Sécurité sociale dans le rouge vif, le gouvernement Lecornu compte transférer une part du coût des remboursements aux assureurs santé. Les tarifs des complémentaires risquent de grimper.",
+    "heure_publi": "06:00",
+    "premium": true
+  },
+  {
+    "titre": "Face au mur des dépenses de santé, il faut réformer tous azimuts",
+    "rubrique": "Idées et débats",
+    "chapeau": "La hausse des dépenses d'assurance-maladie va accélérer ces prochaines années. Un défi considérable, mais pas hors de portée. A condition d'engager des réformes tous azimuts.",
+    "heure_publi": "19:19",
+    "premium": true
+  },
+  {
+    "titre": "Défense, aéronautique, énergie ou chimie : face aux incendies de Gironde, l'industrie française en première ligne",
+    "rubrique": "Industrie",
+    "chapeau": "Face aux incendies qui ravagent le Sud-Ouest, des milliers d'entreprises, dont des sites Seveso, ont suspendu leurs activités. Les secteurs de la défense, de l'énergie et de la chimie redoublent de vigilance pour protéger leurs installations stratégiques.",
+    "heure_publi": "06:30",
+    "premium": true
+  },
+  {
+    "titre": "A Washington, Netanyahou va tenter de convaincre Trump de relancer la guerre contre l'Iran",
+    "rubrique": "Monde",
+    "chapeau": "Le Premier ministre israélien va s'efforcer ce mardi à la Maison-Blanche de convaincre le président américain de relancer des opérations de grande envergure contre l'Iran et de cesser de miser sur des négociations.",
+    "heure_publi": "06:44",
+    "premium": false
+  },
+  {
+    "titre": "« J'ai divisé mon salaire par deux pour aider le plus de personnes possible » : le pari de Romain pour maximiser son impact",
+    "rubrique": "Travailler Mieux",
+    "chapeau": "Après des études d'ingénieur, Romain Barbe devient officier dans la Marine nationale puis rejoint une start-up de vélos électriques à Bruxelles. En quête d'un avenir professionnel plus utile, il quitte, à 25 ans, une carrière prometteuse pour cofonder l'association Mieux Donner.",
+    "heure_publi": "07:45",
+    "premium": true
+  },
+  {
+    "titre": "Avec X Money, Elon Musk se lance dans les services bancaires",
+    "rubrique": "Tech",
+    "chapeau": "Le milliardaire américain lance officiellement aux Etats-Unis son application de paiement liée au réseau social X (ex-Twitter). Réservé aux abonnés, ce service proposera notamment un compte rémunéré et une carte de paiement.",
+    "heure_publi": "07:59",
+    "premium": true
+  },
+  {
+    "titre": "L'équivalent de 70 Grand Canyon : comment l'administration Trump brade les sanctuaires naturels américains",
+    "rubrique": "Monde",
+    "chapeau": "Donald Trump a entrepris de libérer le foncier fédéral afin d'extraire davantage de pétrole et de minerais. Aucun président des Etats-Unis n'était allé aussi loin dans la « dé-conservation ».",
+    "heure_publi": "16:35",
+    "premium": true
+  },
+  {
+    "titre": "« L'armée française risque de rester une armée bonsaï : capable, mais trop peu épaisse pour tenir un conflit de haute intensité »",
+    "rubrique": "Idées et débats",
+    "chapeau": "La France se félicite de consacrer 2,1 % de son PIB à la défense en 2026, mais derrière ce chiffre, l'armée française reste trop peu solide pour tenir un conflit de haute intensité dans la durée, selon Bruno Vallayer, PDG de Bertin Technologies, qui alerte sur les fragilités du tissu industriel de l",
+    "heure_publi": "08:35",
+    "premium": true
+  },
+  {
+    "titre": "« C'est une lutte joyeuse, mais permanente » : la bataille au quotidien des habitants de l'île de Sein",
+    "rubrique": "PME et régions",
+    "chapeau": "HISTOIRES D'ILES (8/10) - Au large de la pointe du Raz, dans le Finistère, Sein est la plus petite des îles du Ponant, la moins peuplée aussi. Ses 260 habitants à l'année livrent un combat sans relâche pour maintenir l'activité, en dépit de la rudesse des éléments.",
+    "heure_publi": "11:39",
+    "premium": true
+  },
+  {
+    "titre": "« De plus en plus de jeunes hommes cherchent à prendre de la testostérone alors qu'ils n'en ont pas besoin» : qui est vraiment concerné par un traitement de remplacement ?",
+    "rubrique": "Week-end",
+    "chapeau": "Le déficit en testostérone, connu sous le terme non médical d'andropause, est relativement rare, mais reste sous-diagnostiqué en France. Une thérapie de remplacement peut être proposée lorsque le faible taux de cette hormone est associé à des symptômes.",
+    "heure_publi": "10:05",
+    "premium": true
+  },
+  {
+    "titre": "« Nous détectons plus de 95 % des départs de feu » : la start-up FireTracking au service de la lutte contre les incendies qui frappent la France",
+    "rubrique": "Start Up",
+    "chapeau": "Avec ses outils de détection précoce des incendies de forêt par IA, l'entreprise séduit de plus en plus de collectivités. Elle promet de repérer les feux mieux que les vigies de chair et d'os.",
+    "heure_publi": "14:53",
+    "premium": true
+  },
+  {
+    "titre": "Zidane, le futur sélectionneur des Bleus qui affole les compteurs",
+    "rubrique": "Industrie",
+    "chapeau": "L'arrivée de Zinédine Zidane à la tête de l'équipe de France devrait être officialisée mardi. Vingt ans après avoir mis fin à sa carrière de footballeur, il est resté une véritable icône du ballon rond, sur laquelle les marques continuent de miser gros. Ambassadeur d'Adidas, entrepreneur, investisse",
+    "heure_publi": "17:45",
+    "premium": true
+  },
+  {
+    "titre": "Immobilier : pourquoi la ruée vers les côtes a-t-elle fortement ralenti depuis 2023 ?",
+    "rubrique": "Patrimoine",
+    "chapeau": "Dans son étude annuelle consacrée au marché immobilier des stations balnéaires, que « Les Echos » ont pu consulter en avant-première, la FNAIM constate que le littoral n'est plus la valeur refuge des acquéreurs, comme cela avait été le cas post-Covid. Pourquoi ce marché décroche-t-il par rapport au ",
+    "heure_publi": "07:30",
+    "premium": true
+  }
+]

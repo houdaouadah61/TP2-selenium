@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.vscode/
+
+cookies_doctolib.json
+cookies_maiia.json

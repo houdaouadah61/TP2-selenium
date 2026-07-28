@@ -1,0 +1,63 @@
+﻿{
+  "tests_injection": [
+    {
+      "test": "sans_cookie",
+      "cookies_injectes": [],
+      "banniere_presente": true
+    },
+    {
+      "test": "didomi_token_seul",
+      "cookies_injectes": [
+        "didomi_token"
+      ],
+      "banniere_presente": false
+    },
+    {
+      "test": "euconsent_v2_seul",
+      "cookies_injectes": [
+        "euconsent-v2"
+      ],
+      "banniere_presente": true
+    },
+    {
+      "test": "deux_cookies",
+      "cookies_injectes": [
+        "didomi_token",
+        "euconsent-v2"
+      ],
+      "banniere_presente": false
+    }
+  ],
+  "conclusion_injection": "Le premier scénario qui masque la bannière est : didomi_token.",
+  "cookies_domaines_tiers": [
+    {
+      "name": "__cf_bm",
+      "domain": ".doctolib.fr",
+      "duree": "Session",
+      "valeur_encodee": "Oui"
+    }
+  ],
+  "trois_cookies_a_analyser": [
+    {
+      "nom": "__cf_bm",
+      "prestataire": "Cloudflare",
+      "domaine": ".doctolib.fr",
+      "duree_de_vie": "Expiré",
+      "valeur_encodee_probable": true
+    },
+    {
+      "nom": "datadome",
+      "prestataire": "DataDome",
+      "domaine": ".maiia.com",
+      "duree_de_vie": "Environ 365 jour(s)",
+      "valeur_encodee_probable": true
+    },
+    {
+      "nom": "dtCookie",
+      "prestataire": "Dynatrace",
+      "domaine": ".maiia.com",
+      "duree_de_vie": "Session",
+      "valeur_encodee_probable": true
+    }
+  ]
+}

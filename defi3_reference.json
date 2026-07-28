@@ -1,0 +1,14 @@
+{
+  "date_test": "2026-07-28 14:47:30",
+  "url_fiche": "https://www.doctolib.fr/dermatologue/montpellier/annelies-taverniers?pid=practice-753056&phs=true&page=1&from=hub_speciality",
+  "donnees": {
+    "nom": "Dr Annelies Taverniers",
+    "specialite": "Dermatologue et vénérologue",
+    "adresse": "5bis Boulevard des Arceaux, 34000 Montpellier"
+  },
+  "selecteurs_utilises": {
+    "nom": "valeur de doctolib.json",
+    "specialite": "valeur de doctolib.json",
+    "adresse": "valeur de doctolib.json"
+  }
+}
