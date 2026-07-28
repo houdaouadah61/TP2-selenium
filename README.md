@@ -4,8 +4,6 @@ Présentation
 
 Ce projet a été réalisé dans le cadre du module Web Scraping du Mastère Dev, Data & IA.
 
-L'objectif est d'utiliser Selenium pour automatiser un navigateur, gérer les bannières de cookies, attendre le chargement dynamique des pages, faire défiler le contenu et exporter les données dans des fichiers JSON.
-
 Deux sites ont été étudiés :
 
 Doctolib
