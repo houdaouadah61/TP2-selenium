@@ -1,0 +1,402 @@
+[
+{
+  "titre": "Le Seigneur des anneaux : le retour du roi",
+  "annee": 2003,
+  "realisateur": "Peter Jackson",
+  "note_presse": 3.8,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=39187.html"
+},
+{
+  "titre": "Les Evadés",
+  "annee": 1995,
+  "realisateur": "Frank Darabont",
+  "note_presse": 3.2,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=11736.html"
+},
+{
+  "titre": "Le Parrain",
+  "annee": 1972,
+  "realisateur": "Francis Ford Coppola",
+  "note_presse": 4.6,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1628.html"
+},
+{
+  "titre": "12 hommes en colère",
+  "annee": 1957,
+  "realisateur": "Sidney Lumet",
+  "note_presse": 5.0,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=4063.html"
+},
+{
+  "titre": "La Ligne verte",
+  "annee": 2000,
+  "realisateur": "Frank Darabont",
+  "note_presse": 2.8,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=22779.html"
+},
+{
+  "titre": "La Liste de Schindler",
+  "annee": 1994,
+  "realisateur": "Steven Spielberg",
+  "note_presse": 4.2,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=9393.html"
+},
+{
+  "titre": "Forrest Gump",
+  "annee": 1994,
+  "realisateur": "Robert Zemeckis",
+  "note_presse": 2.6,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=10568.html"
+},
+{
+  "titre": "Le Seigneur des anneaux : la communauté de l'anneau (version longue)",
+  "annee": 2024,
+  "realisateur": "Peter Jackson",
+  "note_presse": null,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327721.html"
+},
+{
+  "titre": "Le Seigneur des anneaux : les deux tours (version longue)",
+  "annee": 2024,
+  "realisateur": "Peter Jackson",
+  "note_presse": null,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327723.html"
+},
+{
+  "titre": "Le Seigneur des anneaux : le retour du roi (version longue)",
+  "annee": 2024,
+  "realisateur": "Peter Jackson",
+  "note_presse": null,
+  "note_spectateurs": 4.6,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=327724.html"
+},
+{
+  "titre": "Le Seigneur des anneaux : la communauté de l'anneau",
+  "annee": 2001,
+  "realisateur": "Peter Jackson",
+  "note_presse": 3.7,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=27070.html"
+},
+{
+  "titre": "Pulp Fiction",
+  "annee": 1994,
+  "realisateur": "Quentin Tarantino",
+  "note_presse": 4.4,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=10126.html"
+},
+{
+  "titre": "Gladiator",
+  "annee": 2000,
+  "realisateur": "Ridley Scott",
+  "note_presse": 4.3,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=24944.html"
+},
+{
+  "titre": "Le Bon, la brute et le truand",
+  "annee": 1968,
+  "realisateur": "Sergio Leone",
+  "note_presse": 4.1,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=19395.html"
+},
+{
+  "titre": "Il était une fois en Amérique",
+  "annee": 1984,
+  "realisateur": "Sergio Leone",
+  "note_presse": 4.9,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1941.html"
+},
+{
+  "titre": "Interstellar",
+  "annee": 2014,
+  "realisateur": "Christopher Nolan",
+  "note_presse": 3.8,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=114782.html"
+},
+{
+  "titre": "Il était une fois dans l'Ouest",
+  "annee": 1969,
+  "realisateur": "Sergio Leone",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=2021.html"
+},
+{
+  "titre": "The Dark Knight, Le Chevalier Noir",
+  "annee": 2008,
+  "realisateur": "Christopher Nolan",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=115362.html"
+},
+{
+  "titre": "Le Roi Lion",
+  "annee": 1994,
+  "realisateur": "Roger Allers",
+  "note_presse": 3.4,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=10862.html"
+},
+{
+  "titre": "Vol au-dessus d'un nid de coucou",
+  "annee": 1976,
+  "realisateur": "Milos Forman",
+  "note_presse": 5.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=2072.html"
+},
+{
+  "titre": "Fight Club",
+  "annee": 1999,
+  "realisateur": "David Fincher",
+  "note_presse": 2.7,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=21189.html"
+},
+{
+  "titre": "Le Parrain, 2e partie",
+  "annee": 1975,
+  "realisateur": "Francis Ford Coppola",
+  "note_presse": 4.7,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=28201.html"
+},
+{
+  "titre": "Les Affranchis",
+  "annee": 1990,
+  "realisateur": "Martin Scorsese",
+  "note_presse": 5.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=5969.html"
+},
+{
+  "titre": "Parasite",
+  "annee": 2019,
+  "realisateur": "Bong Joon Ho",
+  "note_presse": 4.8,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=255238.html"
+},
+{
+  "titre": "Gran Torino",
+  "annee": 2009,
+  "realisateur": "Clint Eastwood",
+  "note_presse": 4.7,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=135063.html"
+},
+{
+  "titre": "Le Dictateur",
+  "annee": 1945,
+  "realisateur": "Charles Chaplin",
+  "note_presse": 5.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=2253.html"
+},
+{
+  "titre": "Star Wars : Episode V - L'Empire contre-attaque",
+  "annee": 1980,
+  "realisateur": "Irvin Kershner",
+  "note_presse": 5.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=25802.html"
+},
+{
+  "titre": "Seven",
+  "annee": 1996,
+  "realisateur": "David Fincher",
+  "note_presse": 3.6,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=13892.html"
+},
+{
+  "titre": "Le Seigneur des anneaux : les deux tours",
+  "annee": 2002,
+  "realisateur": "Peter Jackson",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=39186.html"
+},
+{
+  "titre": "Django Unchained",
+  "annee": 2013,
+  "realisateur": "Quentin Tarantino",
+  "note_presse": 4.6,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=190918.html"
+},
+{
+  "titre": "Dune : Deuxième Partie",
+  "annee": 2024,
+  "realisateur": "Denis Villeneuve",
+  "note_presse": 4.2,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=278742.html"
+},
+{
+  "titre": "Usual Suspects",
+  "annee": 1995,
+  "realisateur": "Bryan Singer",
+  "note_presse": 4.6,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=12837.html"
+},
+{
+  "titre": "Le Tombeau des lucioles",
+  "annee": 1996,
+  "realisateur": "Isao Takahata",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=10251.html"
+},
+{
+  "titre": "Les Temps modernes",
+  "annee": 1936,
+  "realisateur": "Charles Chaplin",
+  "note_presse": 4.6,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1832.html"
+},
+{
+  "titre": "Green Book : Sur les routes du sud",
+  "annee": 2019,
+  "realisateur": "Peter Farrelly",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=256661.html"
+},
+{
+  "titre": "La Vie est belle",
+  "annee": 1998,
+  "realisateur": "Roberto Benigni",
+  "note_presse": 3.7,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=64439.html"
+},
+{
+  "titre": "Coco",
+  "annee": 2017,
+  "realisateur": "Lee Unkrich",
+  "note_presse": 4.1,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=206775.html"
+},
+{
+  "titre": "Inception",
+  "annee": 2010,
+  "realisateur": "Christopher Nolan",
+  "note_presse": 4.1,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=143692.html"
+},
+{
+  "titre": "Le Comte de Monte-Cristo",
+  "annee": 2024,
+  "realisateur": "Matthieu Delaporte",
+  "note_presse": 3.6,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=288404.html"
+},
+{
+  "titre": "Your Name",
+  "annee": 2016,
+  "realisateur": "Makoto Shinkai",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.5,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=249877.html"
+},
+{
+  "titre": "Le Voyage de Chihiro",
+  "annee": 2002,
+  "realisateur": "Hayao Miyazaki",
+  "note_presse": 4.8,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=37485.html"
+},
+{
+  "titre": "Apocalypse Now Final Cut",
+  "annee": 1979,
+  "realisateur": "Francis Ford Coppola",
+  "note_presse": 4.8,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=27061.html"
+},
+{
+  "titre": "Spider-Man : Across The Spider-Verse",
+  "annee": 2023,
+  "realisateur": "Joaquim Dos Santos",
+  "note_presse": 4.1,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=269975.html"
+},
+{
+  "titre": "Star Wars : Episode IV - Un nouvel espoir (La Guerre des étoiles)",
+  "annee": 1977,
+  "realisateur": "George Lucas",
+  "note_presse": 4.8,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=25801.html"
+},
+{
+  "titre": "American History X",
+  "annee": 1999,
+  "realisateur": "Tony Kaye",
+  "note_presse": 2.8,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=12475.html"
+},
+{
+  "titre": "Psychose",
+  "annee": 1960,
+  "realisateur": "Alfred Hitchcock",
+  "note_presse": 4.5,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1603.html"
+},
+{
+  "titre": "Guerre et Paix",
+  "annee": 1966,
+  "realisateur": "Sergey Bondarchuk",
+  "note_presse": null,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=2606.html"
+},
+{
+  "titre": "Whiplash",
+  "annee": 2014,
+  "realisateur": "Damien Chazelle",
+  "note_presse": 4.1,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=225953.html"
+},
+{
+  "titre": "Le Silence des agneaux",
+  "annee": 1991,
+  "realisateur": "Jonathan Demme",
+  "note_presse": 4.8,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=6641.html"
+},
+{
+  "titre": "Le Kid",
+  "annee": 1921,
+  "realisateur": "Charles Chaplin",
+  "note_presse": 4.0,
+  "note_spectateurs": 4.4,
+  "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=2255.html"
+}
+]

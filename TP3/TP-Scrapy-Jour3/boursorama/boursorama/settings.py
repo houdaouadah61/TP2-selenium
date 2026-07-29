@@ -1,0 +1,42 @@
+BOT_NAME = "boursorama"
+
+SPIDER_MODULES = ["boursorama.spiders"]
+NEWSPIDER_MODULE = "boursorama.spiders"
+
+ADDONS = {}
+
+
+
+ROBOTSTXT_OBEY = True
+
+
+DOWNLOAD_DELAY = 1
+RANDOMIZE_DOWNLOAD_DELAY = True
+
+CONCURRENT_REQUESTS = 4
+CONCURRENT_REQUESTS_PER_DOMAIN = 1
+
+AUTOTHROTTLE_ENABLED = True
+AUTOTHROTTLE_START_DELAY = 1
+AUTOTHROTTLE_MAX_DELAY = 10
+
+
+RETRY_ENABLED = True
+RETRY_TIMES = 3
+
+RETRY_HTTP_CODES = [
+    500,
+    502,
+    503,
+    504,
+    522,
+    524,
+    408,
+    429,
+]
+
+ITEM_PIPELINES = {
+    "boursorama.pipelines.SQLitePipeline": 300,
+}
+
+LOG_LEVEL = "INFO"

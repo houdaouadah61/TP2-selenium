@@ -1,0 +1,5 @@
+﻿"ConcurrentRequests","TempsSecondes","Items","ItemsParSeconde","Reponses","RatioItemsReponses"
+"1","56,86","50","0,88","56","0,89"
+"4","56,89","50","0,88","56","0,89"
+"8","56,96","50","0,88","56","0,89"
+"16","56,99","50","0,88","56","0,89"
