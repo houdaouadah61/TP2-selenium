@@ -2,14 +2,14 @@
 
 ## Présentation
 
-Ce projet contient deux TP obligatoires et trois défis réalisés avec Scrapy.
+Ce projet contient deux spiders principaux et trois défis réalisés avec Scrapy.
 
 ## TP 1 — AlloCiné
 
 Le spider AlloCiné récupère 50 films en suivant les liens entre les pages
-de classement et les fiches détaillées.
+du classement et les fiches détaillées.
 
-Champs récupérés :
+Données récupérées :
 
 - titre ;
 - année ;
@@ -18,19 +18,15 @@ Champs récupérés :
 - note spectateurs ;
 - URL.
 
-Les données sont nettoyées avec un CleanPipeline puis exportées dans :
+Les données sont nettoyées avec un `CleanPipeline`, puis exportées dans
+`films.json` et `films.csv`.
 
-- films.json ;
-- films.csv.
-
-Le projet utilise robots.txt, un délai d'une seconde, AutoThrottle et
-trois tentatives en cas d'erreur HTTP.
 
 ## TP 2 — Boursorama
 
 Le spider Boursorama récupère 25 actions du palmarès français.
 
-Champs récupérés :
+Données récupérées :
 
 - libellé ;
 - cours ;
@@ -38,22 +34,22 @@ Champs récupérés :
 - volume ;
 - code ISIN.
 
-Les données sont enregistrées dans la base SQLite bourse.db.
+Les données sont enregistrées dans la base SQLite `bourse.db`.
 
-La colonne isin possède une contrainte UNIQUE pour empêcher les doublons.
-Les 25 codes ISIN collectés ont été contrôlés et sont valides.
+Le code ISIN est déclaré comme unique afin d'éviter les doublons.
 
-## Défi 1 — Agenda local parisien
+## Défi 1 — Agenda parisien
 
-J'ai choisi l'agenda « Que faire à Paris » de la Ville de Paris.
+ l'agenda « Que faire à Paris » de la Ville de Paris.
 
-Contrairement à AlloCiné, plusieurs liens vers le même événement apparaissent
-sur la page, ce qui oblige à supprimer les doublons. Les dates ne sont pas
-placées dans une balise HTML spécifique et doivent être recherchées dans le
-texte de la fiche. La structure est donc un peu moins prévisible qu'AlloCiné,
-mais les pages conservent un titre, une date et une URL exploitables.
+Contrairement à AlloCiné, certains liens apparaissent plusieurs fois et
+doivent être supprimés. Les dates ne sont pas toujours dans une balise HTML
+précise et doivent être recherchées dans le texte de la page.
 
-Le spider a récupéré 25 événements dans evenements_paris.csv.
+La structure est donc un peu moins prévisible qu'AlloCiné.
+
+Le spider récupère le titre, la date et l'URL de 25 événements dans
+`evenements_paris.csv`.
 
 ## Défi 2 — Performances du crawl AlloCiné
 
@@ -66,16 +62,45 @@ Les tests ont été réalisés sur 50 films.
 | 8 | 56,96 s | 0,88 |
 | 16 | 56,99 s | 0,88 |
 
-Un ratio inférieur à 0,5 signifierait que plus de la moitié des réponses ne
-produisent aucun item. Cela pourrait révéler des erreurs HTTP, des pages
-inutiles ou des sélecteurs devenus incorrects.
+Les quatre résultats sont presque identiques. Dans ce projet,
+`DOWNLOAD_DELAY = 1` limite la vitesse du crawl. Augmenter le nombre de
+requêtes simultanées n'apporte donc pas de gain important.
 
-## Défi 3 — SQL et interprétation financière
+Le test avec AutoThrottle a duré 68,68 secondes. Il est plus lent sur ce
+petit crawl, mais il permet d'adapter automatiquement la vitesse selon le
+temps de réponse du site.
 
-Le script analyse_bourse.py réalise les traitements suivants :
+Le crawl a récupéré 50 films pour 56 réponses, soit un ratio proche de 0,89.
+Un ratio inférieur à 0,5 pourrait indiquer que beaucoup de pages ne produisent
+aucun résultat.
 
-- classement des cinq principales hausses ;
-- classement des baisses lorsqu'elles existent ;
-- détection des volumes supérieurs à deux fois la moyenne ;
-- export des actions dans analyse_bourse.csv.
+## Défi 3 — Analyse des données Boursorama
+
+Le script `analyse_bourse.py` permet de :
+
+- afficher les cinq principales hausses ;
+- afficher les baisses lorsqu'elles existent ;
+- détecter les volumes supérieurs à deux fois la moyenne ;
+- exporter les données dans `analyse_bourse.csv`.
+
+### ALTEN
+
+ALTEN était la première hausse observée, avec environ +19,84 %.
+
+L'entreprise a annoncé un retour à la croissance organique au deuxième
+trimestre 2026 et a amélioré ses prévisions pour l'année. Cette publication
+peut expliquer une partie de la hausse du cours.
+
+### Sopra Steria
+
+Sopra Steria affichait une hausse d'environ +13,07 %.
+
+Le groupe a publié une progression de son chiffre d'affaires au premier
+semestre 2026 et a relevé son objectif de croissance annuelle. Ces résultats
+peuvent expliquer une partie de la hausse observée.
+
+Sources consultées :
+
+- communiqué financier ALTEN du 28 juillet 2026 ;
+- résultats semestriels Sopra Steria du 29 juillet 2026.
 
