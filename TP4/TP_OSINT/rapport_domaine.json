@@ -1,0 +1,79 @@
+{
+    "domaine": "ipssi.fr",
+    "date_analyse": "2026-07-30T16:55:58.308392+02:00",
+    "user_agent": "Houda-IPSSI-OSINT/1.0 (projet pédagogique ; contact: ton.adresse@ipssi.fr)",
+    "adresse_ip": "81.88.57.68",
+    "adresses_ip": [
+        "81.88.57.68"
+    ],
+    "erreur_dns": null,
+    "whois": {
+        "nom_domaine": [
+            "ipssi.fr"
+        ],
+        "registrar": "AMEN / Agence des Médias Numériques",
+        "serveur_whois": null,
+        "date_creation": [
+            "2007-06-08T12:47:53+00:00"
+        ],
+        "date_expiration": [
+            "2027-06-08T12:47:53+00:00"
+        ],
+        "date_mise_a_jour": [
+            "2026-06-08T12:54:14.823826+00:00"
+        ],
+        "serveurs_dns": [
+            "ns1.amen.fr",
+            "ns2.amen.fr"
+        ],
+        "statuts": [
+            "ACTIVE",
+            "autoRenewPeriod",
+            "associated",
+            "not identified",
+            "ok"
+        ],
+        "pays": null,
+        "emails": [
+            "afnic@amen.fr",
+            "mryann@voila.fr",
+            "internic@amen.fr"
+        ],
+        "erreur": null
+    },
+    "headers_http": {
+        "url_demandee": "https://ipssi.fr/",
+        "url_finale": "https://ipssi.fr/",
+        "code_http": 503,
+        "headers": {
+            "Server": "nginx",
+            "Date": "Thu, 30 Jul 2026 14:55:06 GMT",
+            "Content-Type": "text/html",
+            "Content-Length": "537",
+            "Connection": "keep-alive",
+            "ETag": "\"595f7d6a-219\""
+        },
+        "serveur": "nginx",
+        "hsts_present": false,
+        "csp_presente": false,
+        "verification_ssl": false,
+        "avertissement_ssl": "La validation du certificat SSL a échoué. La requête a été répétée avec verify=False. Détail : HTTPSConnectionPool(host='ipssi.fr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))",
+        "erreur": null
+    },
+    "sous_domaines": [],
+    "nombre_sous_domaines": 0,
+    "robots_txt": {
+        "url": "https://ipssi.fr/robots.txt",
+        "code_http": null,
+        "accessible": false,
+        "contenu": "",
+        "verification_ssl": null,
+        "avertissement_ssl": null,
+        "erreur": "400 Client Error: Bad Request for url: https://ipssi.fr/robots.txt"
+    },
+    "limites": [
+        "Les données WHOIS peuvent être incomplètes ou masquées pour protéger les données personnelles.",
+        "Les journaux crt.sh peuvent être temporairement indisponibles et ne recensent pas nécessairement tous les sous-domaines.",
+        "Une requête effectuée sans validation SSL ne permet pas de vérifier avec certitude l'identité du serveur."
+    ]
+}
